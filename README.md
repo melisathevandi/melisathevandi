@@ -57,21 +57,39 @@ Welcome, excited to have you on my landing page!
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/>
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.tidyverse.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Tidyverse_logo.svg/120px-Tidyverse_logo.svg.png" alt="tidyverse" width="30" height="30"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Tidyverse_hex_logo.svg/500px-Tidyverse_hex_logo.svg.png" alt="tidyverse" width="40" height="40"/>
   </a>&nbsp;&nbsp;&nbsp;
 </div>
 
 <ul>
   <li><h3 align="left">Developer Tools:</h3></li>
 </ul>
-<div style="display: flex; gap: 20px;">
+  <!-- Jupyter Notebook -->
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <!-- Google Colab -->
+  <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="google_colab" width="40" height="40"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <!-- BigQuery -->
+  <a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer">
+    <img src="https://images.icon-icons.com/2699/PNG/512/google_bigquery_logo_icon_168150.png" alt="bigquery" width="40" height="40"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <!-- Tableau -->
+  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+    <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" alt="tableau" width="40" height="40"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <!-- Qlik Sense -->
+  <a href="https://www.qlik.com/us/products/qlik-sense" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/354242/qlik.svg" alt="qlik_sense" width="40" height="40"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <!-- Git -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  <!-- IntelliJ IDEA -->
+  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" alt="intelliJ" width="40" height="40"/>
   </a>
 </div>
