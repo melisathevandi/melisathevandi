@@ -1,9 +1,14 @@
-<h1 align="center">Hi 👋, I'm Melisa</h1>
-<h3 align="center">Penultimate-year Data Science and Analytics undergrad at NUS; passionate about data, machine learning, and AI. I’m all about turning data into impactful insights and exploring new ways to innovate with it!</h3>
+<h1 align="left">Hi, I'm Melisa!👋</h1>
+<h3 align="left">A penultimate Data Science and Analytics undergrad at NUS; passionate about data, machine learning, and AI. I’m all about turning data into impactful insights and exploring new ways to innovate with it!</h3>
 
+Welcome, excited to have you on my landing page!
+
+- 👯 I'm currently looking to collaborate on LLM-based project!
+- 💬 Ask me about my school and professional experience
 - 📫 How to reach me **melisa.thevandi@u.nus.edu**
-
+- 👨‍💻 All of my projects are available here, at GitHub
 - 📄 Know about my experiences [https://bit.ly/Resume-MelisaAbigailThevandi](https://bit.ly/Resume-MelisaAbigailThevandi)
+- ⚡ Fun fact: I've changed from a dog person to a cat person (sorry not sorry)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
